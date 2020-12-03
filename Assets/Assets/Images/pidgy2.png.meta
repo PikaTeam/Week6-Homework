@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 71564c07044487547b8dba5bc9aa221b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2084242714526711707
+    second: pidgy2_0
+  - first:
+      213: 5350120727971853124
+    second: pidgy2_1
+  - first:
+      213: 1933884096147394206
+    second: pidgy2_2
+  - first:
+      213: 3811018668991099985
+    second: pidgy2_3
+  - first:
+      213: -3019989252790924877
+    second: pidgy2_4
+  - first:
+      213: 7660771490283644080
+    second: pidgy2_5
+  - first:
+      213: -3262835621072164627
+    second: pidgy2_6
+  - first:
+      213: 1747351568382957630
+    second: pidgy2_7
+  - first:
+      213: -1580298986288226226
+    second: pidgy2_8
+  - first:
+      213: 4901569022111891674
+    second: pidgy2_9
+  - first:
+      213: -66621498034299187
+    second: pidgy2_10
+  - first:
+      213: -1621775057399374745
+    second: pidgy2_11
+  - first:
+      213: -6529564590585311319
+    second: pidgy2_12
+  - first:
+      213: 2088960529015720884
+    second: pidgy2_13
+  - first:
+      213: 8980084115740231854
+    second: pidgy2_14
+  - first:
+      213: 4412573507858662813
+    second: pidgy2_15
+  - first:
+      213: 1561985780423584503
+    second: pidgy2_16
+  - first:
+      213: -6006304314376574911
+    second: pidgy2_17
+  - first:
+      213: -5022234553512705332
+    second: pidgy2_18
+  - first:
+      213: -6940761636124201055
+    second: pidgy2_19
+  - first:
+      213: -8179162658982847491
+    second: pidgy2_20
+  - first:
+      213: 8898270495742760648
+    second: pidgy2_21
+  - first:
+      213: 2144196351322044363
+    second: pidgy2_22
+  - first:
+      213: -1087602071732634623
+    second: pidgy2_23
+  - first:
+      213: 2313877491914715922
+    second: pidgy2_24
+  - first:
+      213: -3692026119724794068
+    second: pidgy2_0
+  - first:
+      213: 6510503406895177113
+    second: pidgy2_1
+  - first:
+      213: -2278649510673330728
+    second: pidgy2_2
+  - first:
+      213: 871300330781847440
+    second: pidgy2_3
+  - first:
+      213: -6057061630837838651
+    second: pidgy2_4
+  - first:
+      213: 4522794973353038580
+    second: pidgy2_5
+  - first:
+      213: 801582940941409214
+    second: pidgy2_6
+  - first:
+      213: 4902193821326610629
+    second: pidgy2_7
+  - first:
+      213: 6200913050944532177
+    second: pidgy2_8
+  - first:
+      213: 9161814064977870075
+    second: pidgy2_9
+  - first:
+      213: -5972770312927532660
+    second: pidgy2_10
+  - first:
+      213: -5770487512785410541
+    second: pidgy2_11
+  - first:
+      213: -3903167073012535879
+    second: pidgy2_12
+  - first:
+      213: -2046103115897995115
+    second: pidgy2_13
+  - first:
+      213: 4021777620040550157
+    second: pidgy2_14
+  - first:
+      213: -6106529587959194230
+    second: pidgy2_15
+  - first:
+      213: 5963344065376116175
+    second: pidgy2_16
+  - first:
+      213: 1823012988285745565
+    second: pidgy2_17
+  - first:
+      213: -2100032680258223184
+    second: pidgy2_18
+  - first:
+      213: 6292351665472816310
+    second: pidgy2_19
+  - first:
+      213: -6160781827121739090
+    second: pidgy2_20
+  - first:
+      213: 3438238914456115428
+    second: pidgy2_21
+  - first:
+      213: 5107767126319769324
+    second: pidgy2_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pidgy2_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 5544
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff6582ec943ccc0800000000000000
+      internalID: -3692026119724794068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 5294
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d15fcba54f95a50800000000000000
+      internalID: 6510503406895177113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 5044
+        width: 175
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc2b4c75c9060e0800000000000000
+      internalID: -2278649510673330728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4794
+        width: 188
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09faee4d80b771c00800000000000000
+      internalID: 871300330781847440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4544
+        width: 175
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2347d98ef0fba0800000000000000
+      internalID: -6057061630837838651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4294
+        width: 188
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f251a2c01234ce30800000000000000
+      internalID: 4522794973353038580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4044
+        width: 175
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb53d4107bcf1b00800000000000000
+      internalID: 801582940941409214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3795
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0994cbe47180440800000000000000
+      internalID: 4902193821326610629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3545
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee1a4e0911e0650800000000000000
+      internalID: 6200913050944532177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3295
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcfe29c95d452f70800000000000000
+      internalID: 9161814064977870075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3045
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a4f4ab057c1da0800000000000000
+      internalID: -5972770312927532660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2795
+        width: 188
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31629933e2c1befa0800000000000000
+      internalID: -5770487512785410541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2545
+        width: 175
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd261a1a3a25d9c0800000000000000
+      internalID: -3903167073012535879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2295
+        width: 188
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590841b8e08ca93e0800000000000000
+      internalID: -2046103115897995115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2045
+        width: 175
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d070228ef6930d730800000000000000
+      internalID: 4021777620040550157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1795
+        width: 188
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d974b81bf314ba0800000000000000
+      internalID: -6106529587959194230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1546
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5d2215dd02c250800000000000000
+      internalID: 5963344065376116175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1296
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f1b377a4ac4910800000000000000
+      internalID: 1823012988285745565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1046
+        width: 175
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34f7c576f2bd2e0800000000000000
+      internalID: -2100032680258223184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 794
+        width: 188
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4485e508ce25750800000000000000
+      internalID: 6292351665472816310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 546
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa0ab7c191808aa0800000000000000
+      internalID: -6160781827121739090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 296
+        width: 188
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d41d731417bf20800000000000000
+      internalID: 3438238914456115428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pidgy2_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 45
+        width: 175
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce625b7a32f62e640800000000000000
+      internalID: 5107767126319769324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
